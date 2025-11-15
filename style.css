@@ -1,0 +1,45 @@
+html {
+    font-family: "Arial", sans-serif;
+}
+
+body {
+    background-color: #fbf9fa;
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    color: #1e2939;
+    margin-bottom: 64px;
+}
+
+a {
+    color: #193cb8;
+    display: block;
+    font-size: 24px;
+    margin-bottom: 32px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    border: 2px solid #1e2939;
+    margin-bottom: 32px;
+}
+
+h2 {
+    font-size: 36px;
+    padding-bottom: 8px;
+    border-bottom: 4px dotted #a9792b;
+}
+
+p,
+li {
+    font-size: 18px;
+}
+
+li {
+    margin-bottom: 16px;
+}
